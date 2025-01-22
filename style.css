@@ -538,4 +538,7 @@ body {
     font-size: 2rem;
     color: #000;
   }
+  .brand{
+    display: none;
+  }
 }
